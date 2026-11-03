@@ -1,0 +1,28 @@
+{
+  "name": "sia-modulo-7-investigacion",
+  "version": "1.0.0",
+  "description": "Módulo 7: Investigación y Producción Científica (MongoDB - Polyglot Persistence)",
+  "type": "module",
+  "main": "src/seeders/seed_modulo_7.js",
+  "scripts": {
+    "seed": "node src/seeders/seed_modulo_7.js",
+    "seed:mongo": "node src/seeders/seed_modulo_7.js --insert-mongo",
+    "queries": "node src/queries/kpi_investigacion.queries.js"
+  },
+  "keywords": [
+    "mongodb",
+    "polyglot-persistence",
+    "udg",
+    "cucei",
+    "investigacion",
+    "faker"
+  ],
+  "author": "Equipo SIA - Módulo 7",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^9.0.0",
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.9.0"
+  }
+}
+

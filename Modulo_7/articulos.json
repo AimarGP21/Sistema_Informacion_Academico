@@ -1,0 +1,2962 @@
+[
+  {
+    "_id": "6aea312771ec330ef957e0e7",
+    "doi": "10.1109/CUCEI.2022.100000",
+    "titulo_articulo": "indexing wireless transmitter en arquitecturas de aplicaciones (#1)",
+    "abstract": "Abajo Gemiqueo Incrementar Generalidad Descerrajar Incristalizable Batallaroso Descifrador Abalanzar. Fideero Descimbramiento Incorporal Genciana Engarfiar Engastar Cencerril. Incorrupción Generalato Fichero Ficticio Cendrado Cencerrear.",
+    "anio_publicacion": 2022,
+    "cuartil": "Q3",
+    "factor_impacto": 9.847,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0c9",
+    "revista": {
+      "issn": "2169-3536",
+      "nombre_revista": "IEEE Access",
+      "indexacion": "Scopus / Web of Science (JCR)",
+      "pais_revista": "Estados Unidos",
+      "sitio_web": "https://ieeeaccess.ieee.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2689109",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2675525",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0e8",
+    "doi": "10.1109/CUCEI.2024.100001",
+    "titulo_articulo": "backing up multi-byte application en arquitecturas de aplicaciones (#2)",
+    "abstract": "Cenal Incredibilidad Abadí Engargante Generación Engastador Descifrar Abadengo Gendarme Descentralización. Ficha Cencío Desciframiento Batallona Batayola Batallador Incorporal Abalaustrado. Batahola Incredulidad Gemonias Cenceño Increpador Abadengo Cencerra Descentrar Genearca.",
+    "anio_publicacion": 2024,
+    "cuartil": "Q1",
+    "factor_impacto": 1.919,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0ca",
+    "revista": {
+      "issn": "0957-4174",
+      "nombre_revista": "Expert Systems with Applications",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Reino Unido",
+      "sitio_web": "https://www.sciencedirect.com/journal/expert-systems-with-applications"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2396514",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Reina Garibay Treviño",
+        "filiacion_externa": "Universidad Nacional Autónoma de México (UNAM)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2658552",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0e9",
+    "doi": "10.1109/CUCEI.2026.100002",
+    "titulo_articulo": "quantifying cross-platform card en arquitecturas de nichos (#3)",
+    "abstract": "Fidedigno Batato Fichaje. Descifrar Batazo Increpación. Descerrajadura Descerar Batavia Generacional Incorporal Cencido Gemológico.",
+    "anio_publicacion": 2026,
+    "cuartil": "Q1",
+    "factor_impacto": 8.1,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0cb",
+    "revista": {
+      "issn": "1424-8220",
+      "nombre_revista": "Sensors",
+      "indexacion": "Scopus / PubMed",
+      "pais_revista": "Suiza",
+      "sitio_web": "https://www.mdpi.com/journal/sensors"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2518390",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2101955",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2169532",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2575611",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0ea",
+    "doi": "10.1109/CUCEI.2020.100003",
+    "titulo_articulo": "synthesizing cross-platform interface en arquitecturas de infomediarios (#4)",
+    "abstract": "Abalar Batalloso Incorporo. Engarmarse Fideicomisario Batazo. Deschavetarse Abalaustrado Incorporal Cenal Generador Engarberar Fideicomitente Descimbramiento Cendrar Incorporación.",
+    "anio_publicacion": 2020,
+    "cuartil": "Q4",
+    "factor_impacto": 7.57,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0cc",
+    "revista": {
+      "issn": "1405-5546",
+      "nombre_revista": "Computación y Sistemas",
+      "indexacion": "CONAHCYT / Scopus",
+      "pais_revista": "México",
+      "sitio_web": "https://www.cys.cic.ipn.mx"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2656031",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2621979",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2414683",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2281971",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0eb",
+    "doi": "10.1109/CUCEI.2025.100004",
+    "titulo_articulo": "programming haptic bandwidth en arquitecturas de relaciones (#5)",
+    "abstract": "Bastonear Engarzar Fido Abadiato Bastonada Descercado Abalada. Gémino Batallaroso Abajeño Gendarmería Cenceño Fido Incrédulamente. Descenso Gen Descifrador Cendrazo Incorruptibilidad Descentralizador Incorpóreo Incorregible Fideo.",
+    "anio_publicacion": 2025,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0cd",
+    "revista": {
+      "issn": "1665-2738",
+      "nombre_revista": "Revista Mexicana de Ingeniería Química",
+      "indexacion": "CONAHCYT / Web of Science",
+      "pais_revista": "México",
+      "sitio_web": "http://rmiq.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2390526",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Ester Gamboa Terán III",
+        "filiacion_externa": "Centro de Investigación en Matemáticas (CIMAT)",
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0ec",
+    "doi": "10.1109/CUCEI.2025.100005",
+    "titulo_articulo": "generating wireless circuit en arquitecturas de canales (#6)",
+    "abstract": "Gemoterapia Engarzador Incorrectamente Generacional Batanero. Bastonero Abaldonadamente Incorruptibilidad Incorporar Engarnio Cendal. Ficha Abadejo Bastonazo.",
+    "anio_publicacion": 2025,
+    "cuartil": "Q2",
+    "factor_impacto": 6.644,
+    "afiliacion_udg": false,
+    "id_proyecto": "6aea312771ec330ef957e0ce",
+    "revista": {
+      "issn": "0167-739X",
+      "nombre_revista": "Future Generation Computer Systems",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Países Bajos",
+      "sitio_web": "https://www.sciencedirect.com/journal/future-generation-computer-systems"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2401298",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2715019",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2447852",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2532482",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2521599",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0ed",
+    "doi": "10.1109/CUCEI.2024.100006",
+    "titulo_articulo": "copying open-source matrix en arquitecturas de relaciones (#7)",
+    "abstract": "Cenca Cendradilla Cencerrillas Geminar Cencerril Cencerrear Cencerrillas Cendalí. Abalaustrado Cencío Incrementar Cenal Batata Ficoideo Fideero Ficticio Incorporal. Cencerro Batalloso Abajamiento Geminación Géminis Bastonear Fidelidad.",
+    "anio_publicacion": 2024,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": false,
+    "id_proyecto": "6aea312771ec330ef957e0cf",
+    "revista": {
+      "issn": "2169-3536",
+      "nombre_revista": "IEEE Access",
+      "indexacion": "Scopus / Web of Science (JCR)",
+      "pais_revista": "Estados Unidos",
+      "sitio_web": "https://ieeeaccess.ieee.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2275534",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2296508",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2261738",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0ee",
+    "doi": "10.1109/CUCEI.2024.100007",
+    "titulo_articulo": "connecting 1080p firewall en arquitecturas de funcionalidades (#8)",
+    "abstract": "Generable Cencha Cencivera Geminar Fideísmo Incorregibilidad Batán. Genealogista Incriminación Engarrafador Incorporo Engarro Descentralizar Fichero Incriminar Increado. Géminis Engarnio Cendolilla Engarrar Abalanzar Increíble Abadiado.",
+    "anio_publicacion": 2024,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0d0",
+    "revista": {
+      "issn": "0957-4174",
+      "nombre_revista": "Expert Systems with Applications",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Reino Unido",
+      "sitio_web": "https://www.sciencedirect.com/journal/expert-systems-with-applications"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2239711",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Adriana Vallejo Menéndez",
+        "filiacion_externa": "Universitat Politècnica de Catalunya (UPC)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Marcela Zamudio Chávez",
+        "filiacion_externa": "Universidad Nacional Autónoma de México (UNAM)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2622234",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2937776",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0ef",
+    "doi": "10.1109/CUCEI.2023.100008",
+    "titulo_articulo": "indexing wireless interface en arquitecturas de comunidades (#9)",
+    "abstract": "Cendrar Incorporalmente Generable Descercador Incrasar. Gencianáceo Descifrable Gemir Abajo Gemonias Fidelísimo Abacorar. Geneático Descercado Genealógico Genealogista Increado Engargolar.",
+    "anio_publicacion": 2023,
+    "cuartil": "Q3",
+    "factor_impacto": 7.127,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0d1",
+    "revista": {
+      "issn": "1424-8220",
+      "nombre_revista": "Sensors",
+      "indexacion": "Scopus / PubMed",
+      "pais_revista": "Suiza",
+      "sitio_web": "https://www.mdpi.com/journal/sensors"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2388704",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2427198",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2627153",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2723309",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0f0",
+    "doi": "10.1109/CUCEI.2020.100009",
+    "titulo_articulo": "transmitting online circuit en arquitecturas de relaciones (#10)",
+    "abstract": "Engastadura Incorregible Bástulo Desceñir Engarrafador Batalla Incrédulamente. Abacora Abada Incrédulamente Cencha. Cencellada Deschavetarse Cendolilla Cendrada Engarrar Cendra Abaco.",
+    "anio_publicacion": 2020,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0d2",
+    "revista": {
+      "issn": "1405-5546",
+      "nombre_revista": "Computación y Sistemas",
+      "indexacion": "CONAHCYT / Scopus",
+      "pais_revista": "México",
+      "sitio_web": "https://www.cys.cic.ipn.mx"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2905570",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Bernardo Zabaleta Xacon",
+        "filiacion_externa": "CINVESTAV Unidad Guadalajara",
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0f1",
+    "doi": "10.1109/CUCEI.2024.100010",
+    "titulo_articulo": "generating open-source microchip en arquitecturas de comunidades (#11)",
+    "abstract": "Engastadura Incriminar Genealogía Bastonero Descifre Incorrección Batallar Cendalí. Abadiado Descervigamiento Batazo Abajeño Cencivera Cencha Increpar Gencianeo Abadí. Basural Ficha Cendalí Engaste Descerrumarse Cencapa.",
+    "anio_publicacion": 2024,
+    "cuartil": "Q3",
+    "factor_impacto": 5.699,
+    "afiliacion_udg": true,
+    "id_proyecto": null,
+    "revista": {
+      "issn": "1665-2738",
+      "nombre_revista": "Revista Mexicana de Ingeniería Química",
+      "indexacion": "CONAHCYT / Web of Science",
+      "pais_revista": "México",
+      "sitio_web": "http://rmiq.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2302901",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2168500",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Melany Gallegos Samaniego",
+        "filiacion_externa": "Universitat Politècnica de Catalunya (UPC)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2308815",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0f2",
+    "doi": "10.1109/CUCEI.2026.100011",
+    "titulo_articulo": "programming cross-platform port en arquitecturas de comunidades (#12)",
+    "abstract": "Descercado Incorrecto Basura Fido Engarronar Descifrar Basurear. Batallona Bastonazo Descentralizar Gen Abadí. Gemoso Incorrupto Fidelísimo Increíble Generalidad.",
+    "anio_publicacion": 2026,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": true,
+    "id_proyecto": null,
+    "revista": {
+      "issn": "0167-739X",
+      "nombre_revista": "Future Generation Computer Systems",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Países Bajos",
+      "sitio_web": "https://www.sciencedirect.com/journal/future-generation-computer-systems"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2233030",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2444056",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0f3",
+    "doi": "10.1109/CUCEI.2022.100012",
+    "titulo_articulo": "copying haptic application en arquitecturas de mercados (#13)",
+    "abstract": "Gendarme Genealogista Descentralizador Cencerra Cencuate Deschavetarse. Cendalí Abajera Cendrar Cencivera Engargolado Géminis Ficha. Engarzador Fiducia Gen.",
+    "anio_publicacion": 2022,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": false,
+    "id_proyecto": "6aea312771ec330ef957e0d5",
+    "revista": {
+      "issn": "2169-3536",
+      "nombre_revista": "IEEE Access",
+      "indexacion": "Scopus / Web of Science (JCR)",
+      "pais_revista": "Estados Unidos",
+      "sitio_web": "https://ieeeaccess.ieee.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2697484",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Eva Ortiz Jurado V",
+        "filiacion_externa": "Universitat Politècnica de Catalunya (UPC)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2898104",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0f4",
+    "doi": "10.1109/CUCEI.2021.100013",
+    "titulo_articulo": "compressing 1080p interface en arquitecturas de arquitecturas (#14)",
+    "abstract": "Genciana Bátavo Generalísimo Cencerrado Cencerra Deschapar Gemiquear Cenaoscuras Cencapa Descercado. Incrementar Incruentamente Batanear Cencerreo Engastador Engargante Incorregiblemente. Abacalero Descifrable Cencivera Cencerrón.",
+    "anio_publicacion": 2021,
+    "cuartil": "Q1",
+    "factor_impacto": 7.028,
+    "afiliacion_udg": true,
+    "id_proyecto": null,
+    "revista": {
+      "issn": "0957-4174",
+      "nombre_revista": "Expert Systems with Applications",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Reino Unido",
+      "sitio_web": "https://www.sciencedirect.com/journal/expert-systems-with-applications"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2238067",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2218975",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Federico Benavídez Lucio",
+        "filiacion_externa": "Universitat Politècnica de Catalunya (UPC)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Sta. Rosa Valdivia Almanza",
+        "filiacion_externa": "Universitat Politècnica de Catalunya (UPC)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Mercedes Delacrúz Lozano",
+        "filiacion_externa": "Universidad Nacional Autónoma de México (UNAM)",
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0f5",
+    "doi": "10.1109/CUCEI.2021.100014",
+    "titulo_articulo": "connecting cross-platform program en arquitecturas de servicios web (#15)",
+    "abstract": "Descercado Engarbullar Engarfiar Cencerrada Cencerrado Gencianáceo Fice Incrementar Fidecomiso Incorporación. Basura Incrédulamente Cenceñada Batalán Engarfiar Ceñar Descifrable Bataola Abalanzar. Bata Incorpóreo Abadiado Abadí Engasgarse Descentrar Abacería Incrédulo.",
+    "anio_publicacion": 2021,
+    "cuartil": "Q3",
+    "factor_impacto": 5.411,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0d7",
+    "revista": {
+      "issn": "1424-8220",
+      "nombre_revista": "Sensors",
+      "indexacion": "Scopus / PubMed",
+      "pais_revista": "Suiza",
+      "sitio_web": "https://www.mdpi.com/journal/sensors"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2829143",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Margarita Razo Jáquez",
+        "filiacion_externa": "Tecnológico de Monterrey (ITESM)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2903818",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0f6",
+    "doi": "10.1109/CUCEI.2022.100015",
+    "titulo_articulo": "synthesizing solid state driver en arquitecturas de aplicaciones (#16)",
+    "abstract": "Fichar Incorruptibilidad Engarrafador Engarrafador Descercado. Cenal Cendrazo Gemíparo Genealogía Abacial Abajo. Descercado Cenco Bata Fideicomiso Incrasar Batallona Cenagar Gémino Descercar Cencero.",
+    "anio_publicacion": 2022,
+    "cuartil": "Q4",
+    "factor_impacto": 4.547,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0d8",
+    "revista": {
+      "issn": "1405-5546",
+      "nombre_revista": "Computación y Sistemas",
+      "indexacion": "CONAHCYT / Scopus",
+      "pais_revista": "México",
+      "sitio_web": "https://www.cys.cic.ipn.mx"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2399013",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2196470",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2591671",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2577376",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2143781",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0f7",
+    "doi": "10.1109/CUCEI.2020.100016",
+    "titulo_articulo": "backing up wireless circuit en arquitecturas de minoristas electrónicos (#17)",
+    "abstract": "Abadiado Batacazo Generalísimo Batallaroso Descifrar Ficticio Incredulidad Gencianáceo Engargolar Engarrotar. Engargante Cenegar Abadía. Cendra Fichero Geminar Fideero Geneático Batallola Generalísimo Engarronar Engarfiar Descervigar.",
+    "anio_publicacion": 2020,
+    "cuartil": "Q1",
+    "factor_impacto": 7.549,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0d9",
+    "revista": {
+      "issn": "1665-2738",
+      "nombre_revista": "Revista Mexicana de Ingeniería Química",
+      "indexacion": "CONAHCYT / Web of Science",
+      "pais_revista": "México",
+      "sitio_web": "http://rmiq.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2803091",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2522122",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0f8",
+    "doi": "10.1109/CUCEI.2022.100017",
+    "titulo_articulo": "copying solid state array en arquitecturas de relaciones (#18)",
+    "abstract": "Cendradilla Descenso Descerar. Deschapar Abadiado Engargolar Descerrar Batanar Cenagar Cencerrada Incrustación Engarfiar Abad. Batallona Incredibilidad Cenata.",
+    "anio_publicacion": 2022,
+    "cuartil": "Q1",
+    "factor_impacto": 2.973,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0da",
+    "revista": {
+      "issn": "0167-739X",
+      "nombre_revista": "Future Generation Computer Systems",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Países Bajos",
+      "sitio_web": "https://www.sciencedirect.com/journal/future-generation-computer-systems"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2959717",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2216206",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2805840",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0f9",
+    "doi": "10.1109/CUCEI.2024.100018",
+    "titulo_articulo": "calculating online bus en arquitecturas de vortales (#19)",
+    "abstract": "Abada Basurero Batata Batallar. Cendradilla Bate Bateaguas Genearca Cencido Gemoso Incorrección Engaste Incrédulamente. Engarzador Incremento Engarmarse Gendarmería Engastadura Gencianeo Desceñir Batalloso Incorregiblemente.",
+    "anio_publicacion": 2024,
+    "cuartil": "Q1",
+    "factor_impacto": 8.243,
+    "afiliacion_udg": true,
+    "id_proyecto": null,
+    "revista": {
+      "issn": "2169-3536",
+      "nombre_revista": "IEEE Access",
+      "indexacion": "Scopus / Web of Science (JCR)",
+      "pais_revista": "Estados Unidos",
+      "sitio_web": "https://ieeeaccess.ieee.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2534922",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2163621",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2859139",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0fa",
+    "doi": "10.1109/CUCEI.2024.100019",
+    "titulo_articulo": "parsing 1080p driver en arquitecturas de Mindshare (#20)",
+    "abstract": "Incredibilidad Geneático Descercar Abaldonamiento Descifrable. Engarnio Descerrar Descerco Generalato. Cendrada Engarro Descerezar Genealogía.",
+    "anio_publicacion": 2024,
+    "cuartil": "Q2",
+    "factor_impacto": 3.968,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0dc",
+    "revista": {
+      "issn": "0957-4174",
+      "nombre_revista": "Expert Systems with Applications",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Reino Unido",
+      "sitio_web": "https://www.sciencedirect.com/journal/expert-systems-with-applications"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2209170",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2650861",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2974044",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Ana Varela Manzanares",
+        "filiacion_externa": "Universitat Politècnica de Catalunya (UPC)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Clara Karen Valentín",
+        "filiacion_externa": "Universidad Nacional Autónoma de México (UNAM)",
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0fb",
+    "doi": "10.1109/CUCEI.2020.100020",
+    "titulo_articulo": "navigating multi-byte sensor en arquitecturas de funcionalidades (#21)",
+    "abstract": "Cendal Descentralizador Engarrafar. Incredibilidad Incruento Descimbrar Generación Generable. Incorporar Abadernar Desceñir Cenata.",
+    "anio_publicacion": 2020,
+    "cuartil": "Q4",
+    "factor_impacto": 2.583,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0dd",
+    "revista": {
+      "issn": "1424-8220",
+      "nombre_revista": "Sensors",
+      "indexacion": "Scopus / PubMed",
+      "pais_revista": "Suiza",
+      "sitio_web": "https://www.mdpi.com/journal/sensors"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2214159",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Lucia Coronado Delvalle",
+        "filiacion_externa": "Universidad Nacional Autónoma de México (UNAM)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Sr. Benjamín Quiñónez de Noriega",
+        "filiacion_externa": "Universitat Politècnica de Catalunya (UPC)",
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0fc",
+    "doi": "10.1109/CUCEI.2023.100021",
+    "titulo_articulo": "backing up 1080p panel en arquitecturas de e-commerce (#22)",
+    "abstract": "Engaritar Basural Fice Cenagar. General Cenero Abadía Cenca Genealogía Deschavetado Cencerril Descepar. Gen Descifrador Batata Fidecomiso Incorregibilidad.",
+    "anio_publicacion": 2023,
+    "cuartil": "Q1",
+    "factor_impacto": 8.568,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0de",
+    "revista": {
+      "issn": "1405-5546",
+      "nombre_revista": "Computación y Sistemas",
+      "indexacion": "CONAHCYT / Scopus",
+      "pais_revista": "México",
+      "sitio_web": "https://www.cys.cic.ipn.mx"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2973959",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2544910",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2890063",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Alondra Romina Carvajal Angulo",
+        "filiacion_externa": "CINVESTAV Unidad Guadalajara",
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0fd",
+    "doi": "10.1109/CUCEI.2020.100022",
+    "titulo_articulo": "backing up primary matrix en arquitecturas de redes (#23)",
+    "abstract": "Incorporeidad Batán Engastar Engarronar Gemólogo Engarrotar. Descimbrar Incorregibilidad Descervigar Generación Gencianáceo Bastonear Cendrazo. Engarce Bastonazo Incorporación Incriminar Engarronar Cenata Bástulo Incorruptible Fideero Ceñar.",
+    "anio_publicacion": 2020,
+    "cuartil": "Q1",
+    "factor_impacto": 5.574,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0df",
+    "revista": {
+      "issn": "1665-2738",
+      "nombre_revista": "Revista Mexicana de Ingeniería Química",
+      "indexacion": "CONAHCYT / Web of Science",
+      "pais_revista": "México",
+      "sitio_web": "http://rmiq.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2900111",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2380079",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Carolina Elizondo Jurado",
+        "filiacion_externa": "Universitat Politècnica de Catalunya (UPC)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Elisa Pelayo Sotelo",
+        "filiacion_externa": "Tecnológico de Monterrey (ITESM)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2518001",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0fe",
+    "doi": "10.1109/CUCEI.2021.100023",
+    "titulo_articulo": "backing up 1080p port en arquitecturas de entregables (#24)",
+    "abstract": "Batanear Abaco Batalla Gemoso Genealógico Deschapar Cendra. Abaldonadamente Incorrupción Cendrar Incorrupto Gencianáceo Cendolilla Batanero Fideo Gencianeo Fideicomitente. Fidalgo Abajadero Descifrable Geminado Incruentamente.",
+    "anio_publicacion": 2021,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": true,
+    "id_proyecto": null,
+    "revista": {
+      "issn": "0167-739X",
+      "nombre_revista": "Future Generation Computer Systems",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Países Bajos",
+      "sitio_web": "https://www.sciencedirect.com/journal/future-generation-computer-systems"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2705928",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2748797",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Jaime Nava Carreón",
+        "filiacion_externa": "Instituto Politécnico Nacional (IPN)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2887246",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2867491",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e0ff",
+    "doi": "10.1109/CUCEI.2024.100024",
+    "titulo_articulo": "quantifying open-source feed en arquitecturas de métricas (#25)",
+    "abstract": "Engarnio Cencerra Cencapa Batavia Genealogista Gemonias Descensión Gemoterapia Gendarmería Fiducia. Abadejo Cencivera Cenagoso Céndea Incrustación Cencha. Gendarme Abaco Engastar Genealogía Fidelidad Fice Cenca.",
+    "anio_publicacion": 2024,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": false,
+    "id_proyecto": "6aea312771ec330ef957e0e1",
+    "revista": {
+      "issn": "2169-3536",
+      "nombre_revista": "IEEE Access",
+      "indexacion": "Scopus / Web of Science (JCR)",
+      "pais_revista": "Estados Unidos",
+      "sitio_web": "https://ieeeaccess.ieee.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2366752",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2860047",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2386469",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Regina Zamudio Dueñas Jr.",
+        "filiacion_externa": "Instituto Politécnico Nacional (IPN)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2412565",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e100",
+    "doi": "10.1109/CUCEI.2020.100025",
+    "titulo_articulo": "compressing open-source sensor en arquitecturas de paradigmas (#26)",
+    "abstract": "Engaste Fideísmo Fido Batallona Cenaoscuras Cendalí Engarzar. Batallar Desciframiento Abajera Descerrajadura Cencerrado Engaritar. Generador Engarzador Fido Descentralizador Cencuate.",
+    "anio_publicacion": 2020,
+    "cuartil": "Q1",
+    "factor_impacto": 8.577,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0e2",
+    "revista": {
+      "issn": "0957-4174",
+      "nombre_revista": "Expert Systems with Applications",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Reino Unido",
+      "sitio_web": "https://www.sciencedirect.com/journal/expert-systems-with-applications"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2958869",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2859683",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "María Guadalupe Orozco Arias",
+        "filiacion_externa": "Universidad Nacional Autónoma de México (UNAM)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2821804",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e101",
+    "doi": "10.1109/CUCEI.2022.100026",
+    "titulo_articulo": "generating haptic capacitor en arquitecturas de mercados electrónicos (#27)",
+    "abstract": "Fideicomiso Incorporación Bátavo Geminar Abadesa Cencerreo Engaste Ficción Gendarmería. Increpar Gendarme Descerar Deschapar Batacazo Engastar. Batea Cenagar Cencuate Engarzador Abajar Descepar.",
+    "anio_publicacion": 2022,
+    "cuartil": "Q1",
+    "factor_impacto": 8.341,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0e3",
+    "revista": {
+      "issn": "1424-8220",
+      "nombre_revista": "Sensors",
+      "indexacion": "Scopus / PubMed",
+      "pais_revista": "Suiza",
+      "sitio_web": "https://www.mdpi.com/journal/sensors"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2711157",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2641023",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2543679",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2216498",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Cecilia Ñañez Padilla",
+        "filiacion_externa": "Universitat Politècnica de Catalunya (UPC)",
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e102",
+    "doi": "10.1109/CUCEI.2023.100027",
+    "titulo_articulo": "calculating online card en arquitecturas de iniciativas (#28)",
+    "abstract": "Descerrumarse Descerrajado Cenco. Incriminar Basurear Increado Batanear Descentralizador Gemiqueo Descerrajar Engasgarse. Cencerrillas Cendrazo Ficoideo Cendrado Descensión Incorporación Incorporal Batalloso.",
+    "anio_publicacion": 2023,
+    "cuartil": "Q3",
+    "factor_impacto": 7.69,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0e4",
+    "revista": {
+      "issn": "1405-5546",
+      "nombre_revista": "Computación y Sistemas",
+      "indexacion": "CONAHCYT / Scopus",
+      "pais_revista": "México",
+      "sitio_web": "https://www.cys.cic.ipn.mx"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2705403",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2291943",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Alan Kanea Negrete",
+        "filiacion_externa": "Instituto Politécnico Nacional (IPN)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2774981",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2931857",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e103",
+    "doi": "10.1109/CUCEI.2022.100028",
+    "titulo_articulo": "connecting bluetooth card en arquitecturas de vortales (#29)",
+    "abstract": "Cendrar Incorporalmente Engarrotar Descifrar. Bata Descerebrado Incorporeidad Cenegar Bastoncillo Geminación Generacional Cendrazo Bastonazo Incredulidad. Cenceño Engarnio Generable Engarro Incordio Engastadura Engastar.",
+    "anio_publicacion": 2022,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0e5",
+    "revista": {
+      "issn": "1665-2738",
+      "nombre_revista": "Revista Mexicana de Ingeniería Química",
+      "indexacion": "CONAHCYT / Web of Science",
+      "pais_revista": "México",
+      "sitio_web": "http://rmiq.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2817422",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2835892",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2873870",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e104",
+    "doi": "10.1109/CUCEI.2026.100029",
+    "titulo_articulo": "parsing digital driver en arquitecturas de aplicaciones (#30)",
+    "abstract": "Generación Incordio Cencerrillas Fidedigno Gemiquear Desciframiento Abada Descercado. Gendarme Gémino Gemíparo Cenceñada Descercado Descerebrar Batallaroso. Batavia Deschavetado Incorregibilidad Cendolilla Cencerril Deschapar Abacería Cencero.",
+    "anio_publicacion": 2026,
+    "cuartil": "Q1",
+    "factor_impacto": 2.462,
+    "afiliacion_udg": true,
+    "id_proyecto": null,
+    "revista": {
+      "issn": "0167-739X",
+      "nombre_revista": "Future Generation Computer Systems",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Países Bajos",
+      "sitio_web": "https://www.sciencedirect.com/journal/future-generation-computer-systems"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2946284",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2779514",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e105",
+    "doi": "10.1109/CUCEI.2026.100030",
+    "titulo_articulo": "transmitting mobile system en arquitecturas de e-business (#31)",
+    "abstract": "Incorrecto Geneático Descimbramiento Gemir Cencuate Incorporación Batanero Descepar. Incruentamente Incorpóreo Deschavetado Desciframiento Cencerrado Geminación. Descimbramiento Descerrumarse Gemoterapia Gémino Descerar.",
+    "anio_publicacion": 2026,
+    "cuartil": "Q2",
+    "factor_impacto": 8.317,
+    "afiliacion_udg": false,
+    "id_proyecto": "6aea312771ec330ef957e0c9",
+    "revista": {
+      "issn": "2169-3536",
+      "nombre_revista": "IEEE Access",
+      "indexacion": "Scopus / Web of Science (JCR)",
+      "pais_revista": "Estados Unidos",
+      "sitio_web": "https://ieeeaccess.ieee.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2710623",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2998934",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2199950",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e106",
+    "doi": "10.1109/CUCEI.2020.100031",
+    "titulo_articulo": "programming primary firewall en arquitecturas de plataformas (#32)",
+    "abstract": "Descentrado Descifrable Increíblemente Geminación Cenestesia Bastonada. Fideicomiso Engarzador Descentralización Abacorar Batato Geminado Batalloso Incorrectamente General. Generador Descentrar Engarmarse Increíble Batallar.",
+    "anio_publicacion": 2020,
+    "cuartil": "Q4",
+    "factor_impacto": 3.262,
+    "afiliacion_udg": true,
+    "id_proyecto": null,
+    "revista": {
+      "issn": "0957-4174",
+      "nombre_revista": "Expert Systems with Applications",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Reino Unido",
+      "sitio_web": "https://www.sciencedirect.com/journal/expert-systems-with-applications"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2367228",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2684394",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e107",
+    "doi": "10.1109/CUCEI.2026.100032",
+    "titulo_articulo": "quantifying optical transmitter en arquitecturas de canales (#33)",
+    "abstract": "Increíblemente Incrementar Cencerro Incorporalmente Cenegar Abalanzar. Batallador Abajadero Cenceño Abadejo Incorrupto Engastadura. Descifrable Incrustación Batán Batallola Incorrección Incorregibilidad Gemoso.",
+    "anio_publicacion": 2026,
+    "cuartil": "Q3",
+    "factor_impacto": 2.823,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0cb",
+    "revista": {
+      "issn": "1424-8220",
+      "nombre_revista": "Sensors",
+      "indexacion": "Scopus / PubMed",
+      "pais_revista": "Suiza",
+      "sitio_web": "https://www.mdpi.com/journal/sensors"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2869353",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Alexander Almonte Navarro",
+        "filiacion_externa": "Universitat Politècnica de Catalunya (UPC)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2608175",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Natalia Ortega Arredondo",
+        "filiacion_externa": "Universitat Politècnica de Catalunya (UPC)",
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e108",
+    "doi": "10.1109/CUCEI.2022.100033",
+    "titulo_articulo": "connecting virtual bus en arquitecturas de tecnologías (#34)",
+    "abstract": "Engastadura Batalloso Descenso Engasgarse. Incorruptible Descervigamiento Gemíparo Bastonada Descerebrar. Engastadura Ficción Incorrectamente Gemir Gendarmería Batanero.",
+    "anio_publicacion": 2022,
+    "cuartil": "Q1",
+    "factor_impacto": 6.002,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0cc",
+    "revista": {
+      "issn": "1405-5546",
+      "nombre_revista": "Computación y Sistemas",
+      "indexacion": "CONAHCYT / Scopus",
+      "pais_revista": "México",
+      "sitio_web": "https://www.cys.cic.ipn.mx"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2776024",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Natalia Reyna Ocampo MD",
+        "filiacion_externa": "Universidad Nacional Autónoma de México (UNAM)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2286008",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2586247",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2831366",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e109",
+    "doi": "10.1109/CUCEI.2025.100034",
+    "titulo_articulo": "copying mobile application en arquitecturas de contenido (#35)",
+    "abstract": "Abacorar Desciframiento Batallador Fidelísimo Gen. Batavia Cencerrear Cencerra Cencuate Batalán Bata Descerrumarse. Desceñir Engarrafar Batacazo Cencivera Descerrumarse General.",
+    "anio_publicacion": 2025,
+    "cuartil": "Q4",
+    "factor_impacto": 1.898,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0cd",
+    "revista": {
+      "issn": "1665-2738",
+      "nombre_revista": "Revista Mexicana de Ingeniería Química",
+      "indexacion": "CONAHCYT / Web of Science",
+      "pais_revista": "México",
+      "sitio_web": "http://rmiq.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2622756",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2218117",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e10a",
+    "doi": "10.1109/CUCEI.2026.100035",
+    "titulo_articulo": "indexing primary firewall en arquitecturas de plataformas (#36)",
+    "abstract": "Abalar Bástulo Descerebrado Abajeño Incorrecto Engarbarse Basura Gemólogo Bateaguas Cencío. Abadí Engaste Batán Cencero Descercado Generalato Cenceñada Abadiado Ficticio. Ficción Cencapa Fideicomisario Engargolado Incredulidad Cencerrillas Cencivera Ficoideo.",
+    "anio_publicacion": 2026,
+    "cuartil": "Q4",
+    "factor_impacto": 9.759,
+    "afiliacion_udg": true,
+    "id_proyecto": null,
+    "revista": {
+      "issn": "0167-739X",
+      "nombre_revista": "Future Generation Computer Systems",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Países Bajos",
+      "sitio_web": "https://www.sciencedirect.com/journal/future-generation-computer-systems"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2640006",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2667501",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2515393",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2819199",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2613850",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e10b",
+    "doi": "10.1109/CUCEI.2020.100036",
+    "titulo_articulo": "backing up wireless bus en arquitecturas de entregables (#37)",
+    "abstract": "Geminado Gemológico Bástulo Descharchar Abajar Gencianeo Cendal. Cenegar Engarrar Bastonear Abacero Incorrupto Batalán Cenaoscuras Bataola. Cendalí Fiducia Incorregible.",
+    "anio_publicacion": 2020,
+    "cuartil": "Q4",
+    "factor_impacto": 1.671,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0cf",
+    "revista": {
+      "issn": "2169-3536",
+      "nombre_revista": "IEEE Access",
+      "indexacion": "Scopus / Web of Science (JCR)",
+      "pais_revista": "Estados Unidos",
+      "sitio_web": "https://ieeeaccess.ieee.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2730474",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Jose Daniel Solís Fonseca",
+        "filiacion_externa": "Tecnológico de Monterrey (ITESM)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2202570",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Luisa Fajardo Barela",
+        "filiacion_externa": "Universitat Politècnica de Catalunya (UPC)",
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e10c",
+    "doi": "10.1109/CUCEI.2023.100037",
+    "titulo_articulo": "hacking cross-platform application en arquitecturas de redes (#38)",
+    "abstract": "Abaldonamiento Incrédulamente Descifrar Engargantadura Deschavetado Descimbrar. Incorporo Engarrar Batalán Incordio Engargantadura Engargantar Incorporeidad Basural Gemoterapia. Descifrar Batanear Genealógico Engarbarse Abalar Engarnio.",
+    "anio_publicacion": 2023,
+    "cuartil": "Q3",
+    "factor_impacto": 6.087,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0d0",
+    "revista": {
+      "issn": "0957-4174",
+      "nombre_revista": "Expert Systems with Applications",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Reino Unido",
+      "sitio_web": "https://www.sciencedirect.com/journal/expert-systems-with-applications"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2614460",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2515508",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2152697",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2486298",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2334482",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e10d",
+    "doi": "10.1109/CUCEI.2025.100038",
+    "titulo_articulo": "synthesizing wireless monitor en arquitecturas de portales (#39)",
+    "abstract": "Cenco Generacional Cendrar Batanear Abalada. Engargantar Cendolilla Engargantar Incorrectamente Incriminación Abaco. Bastoncillo Incorporación Descerebrado Increado.",
+    "anio_publicacion": 2025,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": true,
+    "id_proyecto": null,
+    "revista": {
+      "issn": "1424-8220",
+      "nombre_revista": "Sensors",
+      "indexacion": "Scopus / PubMed",
+      "pais_revista": "Suiza",
+      "sitio_web": "https://www.mdpi.com/journal/sensors"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2372562",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2967194",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2299355",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2133005",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2367317",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e10e",
+    "doi": "10.1109/CUCEI.2026.100039",
+    "titulo_articulo": "programming open-source program en arquitecturas de relaciones (#40)",
+    "abstract": "Descercador Bastonero Descervigamiento. Abajeño Engarberar Engarbarse Incrédulo Gencianáceo Fideo Incorrecto. Incorrupción Abajeño Descepar Bataola Incorporeidad Incorporación Incrédulamente Batea Incorrección.",
+    "anio_publicacion": 2026,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0d2",
+    "revista": {
+      "issn": "1405-5546",
+      "nombre_revista": "Computación y Sistemas",
+      "indexacion": "CONAHCYT / Scopus",
+      "pais_revista": "México",
+      "sitio_web": "https://www.cys.cic.ipn.mx"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2946639",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2944092",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2129351",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2397592",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e10f",
+    "doi": "10.1109/CUCEI.2026.100040",
+    "titulo_articulo": "compressing digital system en arquitecturas de Mindshare (#41)",
+    "abstract": "Descentralizar Fichar Batán Descervigamiento Incorporo Incorpóreo. Engarzador Batacazo Batahola. Batalán Fiducia Descerezar Batazo Abajadero Engaritar.",
+    "anio_publicacion": 2026,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": true,
+    "id_proyecto": null,
+    "revista": {
+      "issn": "1665-2738",
+      "nombre_revista": "Revista Mexicana de Ingeniería Química",
+      "indexacion": "CONAHCYT / Web of Science",
+      "pais_revista": "México",
+      "sitio_web": "http://rmiq.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2339087",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Horacio Salgado Lomeli",
+        "filiacion_externa": "Centro de Investigación en Matemáticas (CIMAT)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2757249",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2821441",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Isaac Rodrígez Gracia",
+        "filiacion_externa": "Centro de Investigación en Matemáticas (CIMAT)",
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e110",
+    "doi": "10.1109/CUCEI.2023.100041",
+    "titulo_articulo": "backing up auxiliary system en arquitecturas de e-business (#42)",
+    "abstract": "Incriminar Descerebrar General Abacalero Incorporo. Incorrupto Batazo Bastoncillo Descerebrar. Abaco Engargantadura Bataola.",
+    "anio_publicacion": 2023,
+    "cuartil": "Q3",
+    "factor_impacto": 6.479,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0d4",
+    "revista": {
+      "issn": "0167-739X",
+      "nombre_revista": "Future Generation Computer Systems",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Países Bajos",
+      "sitio_web": "https://www.sciencedirect.com/journal/future-generation-computer-systems"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2538004",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Gabriela Soliz Vega",
+        "filiacion_externa": "Universidad Nacional Autónoma de México (UNAM)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "María Teresa Cano de Nieves",
+        "filiacion_externa": "Centro de Investigación en Matemáticas (CIMAT)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2375118",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e111",
+    "doi": "10.1109/CUCEI.2021.100042",
+    "titulo_articulo": "quantifying redundant hard drive en arquitecturas de redes (#43)",
+    "abstract": "Deschavetarse Incorrupto Batanear Deschuponar. Incorporo Descenso Increíble Incorregiblemente Abacalero Abaldonadamente Generala Engarrafador. Descenso Desciframiento Increpar Cencido Ficoideo Cencido Cencerril Abacora Cenefa.",
+    "anio_publicacion": 2021,
+    "cuartil": "Q4",
+    "factor_impacto": 2.207,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0d5",
+    "revista": {
+      "issn": "2169-3536",
+      "nombre_revista": "IEEE Access",
+      "indexacion": "Scopus / Web of Science (JCR)",
+      "pais_revista": "Estados Unidos",
+      "sitio_web": "https://ieeeaccess.ieee.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2303318",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2568856",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Sta. Dulce María Partida Cadena",
+        "filiacion_externa": "Tecnológico de Monterrey (ITESM)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2512827",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e112",
+    "doi": "10.1109/CUCEI.2020.100043",
+    "titulo_articulo": "bypassing solid state hard drive en arquitecturas de relaciones (#44)",
+    "abstract": "Deschavetado Bataola Engarrafar Ficticio Fideero Incorrección Abajadero Engarzar Fidedigno Fiducia. Batanga Bastonazo Incorruptibilidad Engarrotar Cenca Abajamiento. Genealogista Fideicomitente Batata Cencerreo Generala Fidelísimo Incruentamente Cenegar.",
+    "anio_publicacion": 2020,
+    "cuartil": "Q4",
+    "factor_impacto": 4.895,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0d6",
+    "revista": {
+      "issn": "0957-4174",
+      "nombre_revista": "Expert Systems with Applications",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Reino Unido",
+      "sitio_web": "https://www.sciencedirect.com/journal/expert-systems-with-applications"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2322170",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Nicole Zambrano Aragón",
+        "filiacion_externa": "Instituto Politécnico Nacional (IPN)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2229664",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e113",
+    "doi": "10.1109/CUCEI.2023.100044",
+    "titulo_articulo": "calculating neural protocol en arquitecturas de aplicaciones (#45)",
+    "abstract": "Batán Deschuponar Descentralizador Descentrar Cencerra. Incorporal Incordio Descervigar Cencío Géminis Incorrupto Engarbullar Batazo. Descervigamiento Cencío Céndea Batanear Abacería.",
+    "anio_publicacion": 2023,
+    "cuartil": "Q3",
+    "factor_impacto": 8.482,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0d7",
+    "revista": {
+      "issn": "1424-8220",
+      "nombre_revista": "Sensors",
+      "indexacion": "Scopus / PubMed",
+      "pais_revista": "Suiza",
+      "sitio_web": "https://www.mdpi.com/journal/sensors"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2344465",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Sebastian Ruelas Urrutia Mtro.",
+        "filiacion_externa": "CINVESTAV Unidad Guadalajara",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2553057",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2747979",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e114",
+    "doi": "10.1109/CUCEI.2020.100045",
+    "titulo_articulo": "calculating primary capacitor en arquitecturas de contenido (#46)",
+    "abstract": "Incorporación Cencerreo Engargantar Cenegar Cendal Abadí. Fideicomisario Deschapar Gemir Engastar Cendrada. Incrustación Gemoterapia Fidalgo Incorrectamente.",
+    "anio_publicacion": 2020,
+    "cuartil": "Q1",
+    "factor_impacto": 1.575,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0d8",
+    "revista": {
+      "issn": "1405-5546",
+      "nombre_revista": "Computación y Sistemas",
+      "indexacion": "CONAHCYT / Scopus",
+      "pais_revista": "México",
+      "sitio_web": "https://www.cys.cic.ipn.mx"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2825518",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2292600",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2975082",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Eduardo Bonilla de Aguirre",
+        "filiacion_externa": "Universitat Politècnica de Catalunya (UPC)",
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e115",
+    "doi": "10.1109/CUCEI.2021.100046",
+    "titulo_articulo": "indexing online port en arquitecturas de funcionalidades (#47)",
+    "abstract": "Abacorar Incorregibilidad Batallón Cencerril Cenero. Incruentamente Cendrar Cencerrear. Engarrafador Descercado Descerebración Fideicomisario Cencerrado Cenagoso Incruento.",
+    "anio_publicacion": 2021,
+    "cuartil": "Q3",
+    "factor_impacto": 6.782,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0d9",
+    "revista": {
+      "issn": "1665-2738",
+      "nombre_revista": "Revista Mexicana de Ingeniería Química",
+      "indexacion": "CONAHCYT / Web of Science",
+      "pais_revista": "México",
+      "sitio_web": "http://rmiq.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2860946",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2260305",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2898972",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2336891",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2932065",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e116",
+    "doi": "10.1109/CUCEI.2025.100047",
+    "titulo_articulo": "bypassing online matrix en arquitecturas de ancho de banda (#48)",
+    "abstract": "Fidedigno Descercar Cendal Descervigamiento Incorporación Fidedigno Incorrecto Géminis Engarbarse Increíblemente. Incremento Cencerra Cencerro Cendolilla Abacial Engarfiar Abacero Fidedigno Descensión. Incorrupto Batallar Cenegar Descerrajadura Batalloso Incrédulamente Cencerril.",
+    "anio_publicacion": 2025,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": false,
+    "id_proyecto": null,
+    "revista": {
+      "issn": "0167-739X",
+      "nombre_revista": "Future Generation Computer Systems",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Países Bajos",
+      "sitio_web": "https://www.sciencedirect.com/journal/future-generation-computer-systems"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2580528",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2437145",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2306847",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e117",
+    "doi": "10.1109/CUCEI.2025.100048",
+    "titulo_articulo": "parsing primary firewall en arquitecturas de ancho de banda (#49)",
+    "abstract": "Incorregibilidad Engastador Descentralizar Descentralizador Basurero Engastadura Descentralización Abacero Fido Céndea. Incruento Batallona Descerrajar Bata Engarbarse Gemiquear. Abadejo Cencellada Incorporación Cencerreo.",
+    "anio_publicacion": 2025,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0db",
+    "revista": {
+      "issn": "2169-3536",
+      "nombre_revista": "IEEE Access",
+      "indexacion": "Scopus / Web of Science (JCR)",
+      "pais_revista": "Estados Unidos",
+      "sitio_web": "https://ieeeaccess.ieee.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2669595",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2210447",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e118",
+    "doi": "10.1109/CUCEI.2021.100049",
+    "titulo_articulo": "programming virtual microchip en arquitecturas de funcionalidades (#50)",
+    "abstract": "Gencianeo Incrasar Abadengo Cenagar Batanga. Engarzador Fichaje Abacora Abaco Batavia. Cenco Descifrar Descentrar Genealogista Ficción Bastonazo.",
+    "anio_publicacion": 2021,
+    "cuartil": "Q1",
+    "factor_impacto": 5.287,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0dc",
+    "revista": {
+      "issn": "0957-4174",
+      "nombre_revista": "Expert Systems with Applications",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Reino Unido",
+      "sitio_web": "https://www.sciencedirect.com/journal/expert-systems-with-applications"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2278384",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2722450",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Ramón Lomeli de Urías",
+        "filiacion_externa": "Instituto Politécnico Nacional (IPN)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2335632",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e119",
+    "doi": "10.1109/CUCEI.2024.100050",
+    "titulo_articulo": "copying virtual hard drive en arquitecturas de portales (#51)",
+    "abstract": "Incorporalmente Gemiqueo Bateador. Cendalí Abaco Engargante Cencerrado Engargolado Incorporación Descentralizar Cencío. Fichero Gemólogo Incrédulo Incorregiblemente.",
+    "anio_publicacion": 2024,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0dd",
+    "revista": {
+      "issn": "1424-8220",
+      "nombre_revista": "Sensors",
+      "indexacion": "Scopus / PubMed",
+      "pais_revista": "Suiza",
+      "sitio_web": "https://www.mdpi.com/journal/sensors"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2416341",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2429254",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2482256",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e11a",
+    "doi": "10.1109/CUCEI.2020.100051",
+    "titulo_articulo": "hacking solid state application en arquitecturas de contenido (#52)",
+    "abstract": "Incrédulamente Abacorar Fichaje Engarro Incorrectamente Descerrar Cenaoscuras Cencerrillas Increíblemente. Generala Engarrar Cencerrada. Descifre Cencivera Engasgarse.",
+    "anio_publicacion": 2020,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": false,
+    "id_proyecto": "6aea312771ec330ef957e0de",
+    "revista": {
+      "issn": "1405-5546",
+      "nombre_revista": "Computación y Sistemas",
+      "indexacion": "CONAHCYT / Scopus",
+      "pais_revista": "México",
+      "sitio_web": "https://www.cys.cic.ipn.mx"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2387124",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2411261",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e11b",
+    "doi": "10.1109/CUCEI.2021.100052",
+    "titulo_articulo": "calculating neural alarm en arquitecturas de convergencia (#53)",
+    "abstract": "Incorrupción Abadiado Deschapar Geneático Abacial Increado Cencerril Cendrar. Ceñar Abalada Bástulo Cenceño. Generala Cencero Descimbrar.",
+    "anio_publicacion": 2021,
+    "cuartil": "Q3",
+    "factor_impacto": 8.448,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0df",
+    "revista": {
+      "issn": "1665-2738",
+      "nombre_revista": "Revista Mexicana de Ingeniería Química",
+      "indexacion": "CONAHCYT / Web of Science",
+      "pais_revista": "México",
+      "sitio_web": "http://rmiq.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2596033",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Agustín Toro Lomeli",
+        "filiacion_externa": "Universidad Nacional Autónoma de México (UNAM)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "María Eugenia Ledesma Esquibel",
+        "filiacion_externa": "Tecnológico de Monterrey (ITESM)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2433906",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e11c",
+    "doi": "10.1109/CUCEI.2025.100053",
+    "titulo_articulo": "parsing neural driver en arquitecturas de iniciativas (#54)",
+    "abstract": "Genearca Bateador Incorruptibilidad Incorregible. Fidelísimo Increpador Descerebración Engarmarse Engarzadura Descerco Abad Cencerrillas Abadí. Cenal Bateador Batalán Engarnio Incorporeidad Bate Desciframiento Batalloso Abalar.",
+    "anio_publicacion": 2025,
+    "cuartil": "Q2",
+    "factor_impacto": 4.55,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0e0",
+    "revista": {
+      "issn": "0167-739X",
+      "nombre_revista": "Future Generation Computer Systems",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Países Bajos",
+      "sitio_web": "https://www.sciencedirect.com/journal/future-generation-computer-systems"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2761529",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2846776",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e11d",
+    "doi": "10.1109/CUCEI.2025.100054",
+    "titulo_articulo": "backing up auxiliary program en arquitecturas de metodologías (#55)",
+    "abstract": "Descervigar Cencivera Gemológico Generalato Incremento Gendarmería Cencerrado Engarzadura. Ficoideo Abajar Engarro Incruentamente. Cencido Cencerrear Batata Abalada Abad Cencha Engargantadura Abacería Incorruptibilidad.",
+    "anio_publicacion": 2025,
+    "cuartil": "Q2",
+    "factor_impacto": 1.906,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0e1",
+    "revista": {
+      "issn": "2169-3536",
+      "nombre_revista": "IEEE Access",
+      "indexacion": "Scopus / Web of Science (JCR)",
+      "pais_revista": "Estados Unidos",
+      "sitio_web": "https://ieeeaccess.ieee.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2157753",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_PREGRADO",
+        "codigo_udg": "ALU-2471964",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e11e",
+    "doi": "10.1109/CUCEI.2023.100055",
+    "titulo_articulo": "parsing haptic port en arquitecturas de entregables (#56)",
+    "abstract": "Abalanzar Incremento Cenegar Abadesa. Cenefa Descimbramiento Abadiado Engastar. Descerrajado Descifrar Basurero.",
+    "anio_publicacion": 2023,
+    "cuartil": "Q2",
+    "factor_impacto": 7.638,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0e2",
+    "revista": {
+      "issn": "0957-4174",
+      "nombre_revista": "Expert Systems with Applications",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Reino Unido",
+      "sitio_web": "https://www.sciencedirect.com/journal/expert-systems-with-applications"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2448643",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2488430",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2286528",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e11f",
+    "doi": "10.1109/CUCEI.2021.100056",
+    "titulo_articulo": "compressing wireless hard drive en arquitecturas de modelos (#57)",
+    "abstract": "Gemoso Abacial Cencero Cencerro Cencivera. Cencuate Cencivera Cenca Fichaje Cenceño Batalloso Abajeño Batanga Cenceñada Cenceño. Cenefa Basural Fideicomiso Incorrecto Engarbarse Batallar Engastador Bateador.",
+    "anio_publicacion": 2021,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0e3",
+    "revista": {
+      "issn": "1424-8220",
+      "nombre_revista": "Sensors",
+      "indexacion": "Scopus / PubMed",
+      "pais_revista": "Suiza",
+      "sitio_web": "https://www.mdpi.com/journal/sensors"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2832855",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2550910",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2120328",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2567494",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e120",
+    "doi": "10.1109/CUCEI.2021.100057",
+    "titulo_articulo": "bypassing optical alarm en arquitecturas de interfaces (#58)",
+    "abstract": "Incrédulo Genealogía Incriminación Abadejo Bastonero Ficción Incruentamente. Fideicomisario Increíble Incorrectamente Engasgarse Batallona Incremento Abadernar Abada Engastador. Descerebrar Descimbramiento Cenefa Engarzar Abaldonadamente.",
+    "anio_publicacion": 2021,
+    "cuartil": "NA",
+    "factor_impacto": 0.45,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0e4",
+    "revista": {
+      "issn": "1405-5546",
+      "nombre_revista": "Computación y Sistemas",
+      "indexacion": "CONAHCYT / Scopus",
+      "pais_revista": "México",
+      "sitio_web": "https://www.cys.cic.ipn.mx"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2974850",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2868876",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2268658",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2544891",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 5,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2664349",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e121",
+    "doi": "10.1109/CUCEI.2026.100058",
+    "titulo_articulo": "synthesizing neural sensor en arquitecturas de e-commerce (#59)",
+    "abstract": "Fideicomiso Abaco Batato Engarbullar. Engargante Ceñar Cenco Descentralizar Cenefa Incorporal. Cenestesia Gendarme Abaco Cenegar.",
+    "anio_publicacion": 2026,
+    "cuartil": "Q1",
+    "factor_impacto": 8.588,
+    "afiliacion_udg": true,
+    "id_proyecto": "6aea312771ec330ef957e0e5",
+    "revista": {
+      "issn": "1665-2738",
+      "nombre_revista": "Revista Mexicana de Ingeniería Química",
+      "indexacion": "CONAHCYT / Web of Science",
+      "pais_revista": "México",
+      "sitio_web": "http://rmiq.org"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2314161",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2296964",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Axel Arce Aparicio",
+        "filiacion_externa": "Universitat Politècnica de Catalunya (UPC)",
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2209075",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      }
+    ]
+  },
+  {
+    "_id": "6aea312771ec330ef957e122",
+    "doi": "10.1109/CUCEI.2022.100059",
+    "titulo_articulo": "programming haptic firewall en arquitecturas de e-commerce (#60)",
+    "abstract": "Engaritar Batallón Genealógico Abacora Engarbullar Incorrupción. Fiducia Gendarmería Cenaoscuras Abacial Incorrectamente Bastonazo Abacorar. Incrédulo Descerar Abacalero Incredulidad.",
+    "anio_publicacion": 2022,
+    "cuartil": "Q4",
+    "factor_impacto": 2.666,
+    "afiliacion_udg": true,
+    "id_proyecto": null,
+    "revista": {
+      "issn": "0167-739X",
+      "nombre_revista": "Future Generation Computer Systems",
+      "indexacion": "Web of Science (JCR)",
+      "pais_revista": "Países Bajos",
+      "sitio_web": "https://www.sciencedirect.com/journal/future-generation-computer-systems"
+    },
+    "autores": [
+      {
+        "orden_autoria": 1,
+        "tipo_autor": "PROFESOR_CUCEI",
+        "codigo_udg": "PROF-2789789",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": true
+      },
+      {
+        "orden_autoria": 2,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2397355",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 3,
+        "tipo_autor": "ALUMNO_POSGRADO",
+        "codigo_udg": "ALU-2468962",
+        "nombre_autor_externo": null,
+        "filiacion_externa": null,
+        "es_autor_correspondencia": false
+      },
+      {
+        "orden_autoria": 4,
+        "tipo_autor": "EXTERNO",
+        "codigo_udg": null,
+        "nombre_autor_externo": "Irene Rincón de Alcántar",
+        "filiacion_externa": "Centro de Investigación en Matemáticas (CIMAT)",
+        "es_autor_correspondencia": false
+      }
+    ]
+  }
+]

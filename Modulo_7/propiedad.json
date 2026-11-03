@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "6aea312771ec330ef957e123",
+    "numero_registro": "MX/IMPI/2025/50000",
+    "titulo": "Sistema Automatizado de Monitoreo Espectral para redes (PATENTE)",
+    "tipo_propiedad": "PATENTE",
+    "estatus": "OTORGADO",
+    "fecha_concesion": "2026-10-19T07:34:44.313Z",
+    "id_proyecto": "6aea312771ec330ef957e0c9"
+  },
+  {
+    "_id": "6aea312771ec330ef957e124",
+    "numero_registro": "MX/IMPI/2025/50001",
+    "titulo": "Dispositivo Mecatrónico Reconfigurable de ancho de banda (PATENTE)",
+    "tipo_propiedad": "PATENTE",
+    "estatus": "RECHAZADO",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0ca"
+  },
+  {
+    "_id": "6aea312771ec330ef957e125",
+    "numero_registro": "MX/IMPI/2025/50002",
+    "titulo": "Motor Algorítmico de Cifrado Homomórfico para e-commerce (DISENO_INDUSTRIAL)",
+    "tipo_propiedad": "DISENO_INDUSTRIAL",
+    "estatus": "RECHAZADO",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0cb"
+  },
+  {
+    "_id": "6aea312771ec330ef957e126",
+    "numero_registro": "MX/IMPI/2025/50003",
+    "titulo": "Biorreactor Modular de Flujo Continuo Aplicado a métricas (PATENTE)",
+    "tipo_propiedad": "PATENTE",
+    "estatus": "OTORGADO",
+    "fecha_concesion": "2025-12-30T18:49:44.230Z",
+    "id_proyecto": "6aea312771ec330ef957e0cc"
+  },
+  {
+    "_id": "6aea312771ec330ef957e127",
+    "numero_registro": "MX/IMPI/2025/50004",
+    "titulo": "Interfaz Cerebral No Invasiva para Control de redes (MODELO_UTILIDAD)",
+    "tipo_propiedad": "MODELO_UTILIDAD",
+    "estatus": "SOLICITADO",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0cd"
+  },
+  {
+    "_id": "6aea312771ec330ef957e128",
+    "numero_registro": "MX/INDAUTOR/2025/50005",
+    "titulo": "Sistema Automatizado de Monitoreo Espectral para e-commerce (SOFTWARE_INDAUTOR)",
+    "tipo_propiedad": "SOFTWARE_INDAUTOR",
+    "estatus": "RECHAZADO",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0ce"
+  },
+  {
+    "_id": "6aea312771ec330ef957e129",
+    "numero_registro": "MX/INDAUTOR/2025/50006",
+    "titulo": "Dispositivo Mecatrónico Reconfigurable de usuarios (SOFTWARE_INDAUTOR)",
+    "tipo_propiedad": "SOFTWARE_INDAUTOR",
+    "estatus": "EN_EXAMEN",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0cf"
+  },
+  {
+    "_id": "6aea312771ec330ef957e12a",
+    "numero_registro": "MX/IMPI/2025/50007",
+    "titulo": "Motor Algorítmico de Cifrado Homomórfico para plataformas (MODELO_UTILIDAD)",
+    "tipo_propiedad": "MODELO_UTILIDAD",
+    "estatus": "RECHAZADO",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0d0"
+  },
+  {
+    "_id": "6aea312771ec330ef957e12b",
+    "numero_registro": "MX/IMPI/2025/50008",
+    "titulo": "Biorreactor Modular de Flujo Continuo Aplicado a minoristas electrónicos (MODELO_UTILIDAD)",
+    "tipo_propiedad": "MODELO_UTILIDAD",
+    "estatus": "SOLICITADO",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0d1"
+  },
+  {
+    "_id": "6aea312771ec330ef957e12c",
+    "numero_registro": "MX/IMPI/2025/50009",
+    "titulo": "Interfaz Cerebral No Invasiva para Control de e-business (MODELO_UTILIDAD)",
+    "tipo_propiedad": "MODELO_UTILIDAD",
+    "estatus": "SOLICITADO",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0d2"
+  },
+  {
+    "_id": "6aea312771ec330ef957e12d",
+    "numero_registro": "MX/IMPI/2025/50010",
+    "titulo": "Sistema Automatizado de Monitoreo Espectral para esquemas (PATENTE)",
+    "tipo_propiedad": "PATENTE",
+    "estatus": "RECHAZADO",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0d3"
+  },
+  {
+    "_id": "6aea312771ec330ef957e12e",
+    "numero_registro": "MX/IMPI/2025/50011",
+    "titulo": "Dispositivo Mecatrónico Reconfigurable de esquemas (MODELO_UTILIDAD)",
+    "tipo_propiedad": "MODELO_UTILIDAD",
+    "estatus": "OTORGADO",
+    "fecha_concesion": "2026-07-22T15:15:17.110Z",
+    "id_proyecto": "6aea312771ec330ef957e0d4"
+  },
+  {
+    "_id": "6aea312771ec330ef957e12f",
+    "numero_registro": "MX/IMPI/2025/50012",
+    "titulo": "Motor Algorítmico de Cifrado Homomórfico para web-readiness (MODELO_UTILIDAD)",
+    "tipo_propiedad": "MODELO_UTILIDAD",
+    "estatus": "SOLICITADO",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0d5"
+  },
+  {
+    "_id": "6aea312771ec330ef957e130",
+    "numero_registro": "MX/INDAUTOR/2025/50013",
+    "titulo": "Biorreactor Modular de Flujo Continuo Aplicado a contenido (SOFTWARE_INDAUTOR)",
+    "tipo_propiedad": "SOFTWARE_INDAUTOR",
+    "estatus": "SOLICITADO",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0d6"
+  },
+  {
+    "_id": "6aea312771ec330ef957e131",
+    "numero_registro": "MX/IMPI/2025/50014",
+    "titulo": "Interfaz Cerebral No Invasiva para Control de plataformas (MODELO_UTILIDAD)",
+    "tipo_propiedad": "MODELO_UTILIDAD",
+    "estatus": "RECHAZADO",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0d7"
+  },
+  {
+    "_id": "6aea312771ec330ef957e132",
+    "numero_registro": "MX/IMPI/2025/50015",
+    "titulo": "Sistema Automatizado de Monitoreo Espectral para interfaces (MODELO_UTILIDAD)",
+    "tipo_propiedad": "MODELO_UTILIDAD",
+    "estatus": "EN_EXAMEN",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0d8"
+  },
+  {
+    "_id": "6aea312771ec330ef957e133",
+    "numero_registro": "MX/IMPI/2025/50016",
+    "titulo": "Dispositivo Mecatrónico Reconfigurable de redes (DISENO_INDUSTRIAL)",
+    "tipo_propiedad": "DISENO_INDUSTRIAL",
+    "estatus": "RECHAZADO",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0d9"
+  },
+  {
+    "_id": "6aea312771ec330ef957e134",
+    "numero_registro": "MX/IMPI/2025/50017",
+    "titulo": "Motor Algorítmico de Cifrado Homomórfico para contenido (MODELO_UTILIDAD)",
+    "tipo_propiedad": "MODELO_UTILIDAD",
+    "estatus": "RECHAZADO",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0da"
+  },
+  {
+    "_id": "6aea312771ec330ef957e135",
+    "numero_registro": "MX/IMPI/2025/50018",
+    "titulo": "Biorreactor Modular de Flujo Continuo Aplicado a mercados electrónicos (MODELO_UTILIDAD)",
+    "tipo_propiedad": "MODELO_UTILIDAD",
+    "estatus": "EN_EXAMEN",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0db"
+  },
+  {
+    "_id": "6aea312771ec330ef957e136",
+    "numero_registro": "MX/IMPI/2025/50019",
+    "titulo": "Interfaz Cerebral No Invasiva para Control de vortales (MODELO_UTILIDAD)",
+    "tipo_propiedad": "MODELO_UTILIDAD",
+    "estatus": "RECHAZADO",
+    "fecha_concesion": null,
+    "id_proyecto": "6aea312771ec330ef957e0dc"
+  }
+]
