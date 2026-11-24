@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ============================================================================
+# Sprint 4: Full-Stack (FastAPI + React/Vite + MongoDB + Entornos)
+# ============================================================================
+node_modules/
+dist/
+dist-ssr/
+.vite/
+.env*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+
