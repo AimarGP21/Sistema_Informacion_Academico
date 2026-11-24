@@ -1,15 +1,35 @@
-from faker import Faker
-import random
-import hashlib
+# ============================================================================
+# SISTEMA DE INFORMACIÓN ACADÉMICA (SIA) - CUCEI / UDG
+# MÓDULO 1: AUTENTICACIÓN Y CONTROL DE ACCESO BASADO EN ROLES (RBAC)
+# SEEDER DE DATOS SINTÉTICOS CON FAKER (es_MX) Y HASHING BCRYPT (SPRINT 4)
+# ============================================================================
+# Contraseña institucional por defecto para todos los usuarios semilla:
+#   Password en texto plano : SIA_Udg2026!
+#   Algoritmo de hashing    : bcrypt ($2b$12$...) - 60 caracteres en VARCHAR(255)
+# ============================================================================
 
+import os
+import random
+import bcrypt
+from faker import Faker
+
+SEMILLA = 20261104
+Faker.seed(SEMILLA)
+random.seed(SEMILLA)
 fake = Faker('es_MX')
 
-# Importo las librerías de faker, random y hashlib con la localización es_MX
+# Contraseña por defecto conocida para pruebas de Login/JWT en Sprint 4
+DEFAULT_PLAIN_PASSWORD = "SIA_Udg2026!"
+BCRYPT_ROUNDS = 12
 
-with open('DML_Modulo_1.sql', 'w', encoding='utf-8') as f:  # Abre el archivo DML_Modulo_1.sql en modo escritura con codificación utf-8
+output_filename = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'DML_Modulo_1.sql')
+
+with open(output_filename, 'w', encoding='utf-8') as f:
 
     f.write("-- ============================================================================\n")
     f.write("-- DML MÓDULO 1: AUTENTICACIÓN Y CONTROL DE ACCESO BASADO EN ROLES (RBAC)\n")
+    f.write("-- Generado con seeder_modulo_1.py (Faker es_MX + Hashing Bcrypt $2b$12$)\n")
+    f.write(f"-- Contraseña institucional por defecto para pruebas de Login: {DEFAULT_PLAIN_PASSWORD}\n")
     f.write("-- ============================================================================\n\n")
 
     # 1. Tabla roles
@@ -20,8 +40,6 @@ with open('DML_Modulo_1.sql', 'w', encoding='utf-8') as f:  # Abre el archivo DM
         ('Coordinador_Academico', 'Supervisión de planes de estudio, asignación de carga horaria y validación departamental.'),
         ('Control_Escolar', 'Administración de matrículas, expedientes estudiantiles, actas de evaluación y certificados.')
     ]
-
-    # Defino de forma predefinida los roles institucionales
 
     f.write("-- 1. Inserción en tabla roles\n")
     for nombre_rol, descripcion in roles_definidos:
@@ -56,8 +74,6 @@ with open('DML_Modulo_1.sql', 'w', encoding='utf-8') as f:  # Abre el archivo DM
         ('propiedad_intelectual.dictaminar_estatus', 'Modulo_7_Investigacion')
     ]
 
-    # Defino los 18 permisos distribuidos en los módulos del sistema
-
     f.write("-- 2. Inserción en tabla permisos\n")
     for nombre_permiso, modulo in permisos_definidos:
         nombre_permiso_clean = nombre_permiso.replace("'", "''")
@@ -69,22 +85,23 @@ with open('DML_Modulo_1.sql', 'w', encoding='utf-8') as f:  # Abre el archivo DM
 
     f.write("\n")
 
-    # 3. Tabla usuarios
-    num_usuarios = 100  # Total de usuarios a generar
+    # 3. Tabla usuarios (100 registros con fake.unique.email() y Bcrypt)
+    num_usuarios = 100
+    default_pwd_bytes = DEFAULT_PLAIN_PASSWORD.encode('utf-8')
 
-    f.write("-- 3. Inserción en tabla usuarios (100 registros con SHA-256)\n")
+    f.write(f"-- 3. Inserción en tabla usuarios (100 registros con Bcrypt $2b${BCRYPT_ROUNDS}$ y password default '{DEFAULT_PLAIN_PASSWORD}')\n")
     for i in range(1, num_usuarios + 1):
         username = f"{fake.unique.user_name()}_{i}".replace("'", "''")[:50]
-        email = fake.unique.email().replace("'", "''")
-        raw_password = fake.password(length=14, special_chars=True, digits=True, upper_case=True, lower_case=True)
-        password_hash = hashlib.sha256(raw_password.encode('utf-8')).hexdigest()
+        email = fake.unique.email().replace("'", "''").lower()
+        password_hash = bcrypt.hashpw(
+            default_pwd_bytes,
+            bcrypt.gensalt(rounds=BCRYPT_ROUNDS)
+        ).decode('utf-8')
         estatus = random.choices(
             ['activo', 'inactivo', 'bloqueado'],
             weights=[80, 12, 8],
             k=1
         )[0]
-
-        # Ir declarando qué datos con faker, random y hashlib se pondrán en cada atributo en un ciclo for
 
         f.write(
             f"INSERT INTO usuarios (username, email, password_hash, estatus) "
@@ -94,7 +111,7 @@ with open('DML_Modulo_1.sql', 'w', encoding='utf-8') as f:  # Abre el archivo DM
     f.write("\n")
 
     # 4. Tabla roles_permisos
-    # Usamos un conjunto (set) para evitar duplicar llaves primarias compuestas (id_rol, id_permiso)
+    # Conjunto (set) para evitar duplicar llaves primarias compuestas (id_rol, id_permiso)
     roles_permisos_set = set()
     num_permisos = len(permisos_definidos)
 
@@ -134,7 +151,7 @@ with open('DML_Modulo_1.sql', 'w', encoding='utf-8') as f:  # Abre el archivo DM
     f.write("\n")
 
     # 5. Tabla usuarios_roles
-    # Usamos un conjunto (set) para evitar duplicar llaves primarias compuestas (id_usuario, id_rol)
+    # Conjunto (set) para evitar duplicar llaves primarias compuestas (id_usuario, id_rol)
     usuarios_roles_set = set()
 
     # Garantizar que cada uno de los 100 usuarios tenga al menos un rol asignado
@@ -176,8 +193,12 @@ with open('DML_Modulo_1.sql', 'w', encoding='utf-8') as f:  # Abre el archivo DM
         "  );\n"
     )
 
-    # 7. Operación Transaccional Atómica (BEGIN ... COMMIT)
-    hash_transaccional = hashlib.sha256("SeguridadUDG#2026!".encode('utf-8')).hexdigest()
+    # 7. Operación Transaccional Atómica (BEGIN ... COMMIT) con Bcrypt
+    hash_transaccional = bcrypt.hashpw(
+        default_pwd_bytes,
+        bcrypt.gensalt(rounds=BCRYPT_ROUNDS)
+    ).decode('utf-8')
+
     f.write("\n-- Operación Transaccional Atómica\n")
     f.write("-- El ROLLBACK procedería si el username/email ya existen o si alguno de los roles asignados viola la integridad referencial.\n")
     f.write(
@@ -192,3 +213,5 @@ with open('DML_Modulo_1.sql', 'w', encoding='utf-8') as f:  # Abre el archivo DM
         "  AND r.nombre_rol IN ('Profesor_Investigador', 'Coordinador_Academico');\n\n"
         "COMMIT;\n"
     )
+
+print(f"Seeder Módulo 1 completado con Bcrypt ($2b${BCRYPT_ROUNDS}$). Archivo generado: {output_filename}")
